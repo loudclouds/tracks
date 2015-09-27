@@ -1,0 +1,25 @@
+{
+  "name": "tracks",
+  "version": "1.0.0",
+  "description": "tracks app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loudclouds/tracks.git"
+  },
+  "author": "loudclouds",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loudclouds/tracks/issues"
+  },
+  "homepage": "https://github.com/loudclouds/tracks#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  }
+}
